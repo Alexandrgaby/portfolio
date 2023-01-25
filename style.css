@@ -1,0 +1,25 @@
+* {
+  text-align: center;
+  background-color: seashell;
+  box-sizing: border-box;
+}
+
+.title {
+  text-align: center;
+  color: chocolate;
+  border: 2px dashed rosybrown;
+}
+.main-container-for-pictures {
+  background-color: wheat;
+  width: 50%;
+  height: 2400px;
+  box-sizing: border-box;
+  display: inline-block;
+}
+.first-image {
+  display: inline;
+}
+.video {
+  display: inline;
+  width: 50%;
+}
