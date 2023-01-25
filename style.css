@@ -12,7 +12,7 @@
 .main-container-for-pictures {
   background-color: wheat;
   width: 50%;
-  height: 2400px;
+  max-height: 2400px;
   box-sizing: border-box;
   display: inline-block;
 }
