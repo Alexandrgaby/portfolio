@@ -23,3 +23,10 @@
   display: inline;
   width: 50%;
 }
+@media screen and (min-width: 400px) {
+  .main-container-for-pictures {
+    width: auto;
+    flex: content;
+    float: inherit;
+  }
+}
