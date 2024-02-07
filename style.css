@@ -13,6 +13,9 @@
   color: chocolate;
   border: 2px dashed rosybrown;
 }
+.her__nav {
+  text-decoration: none;
+}
 .gallery-container {
   background-color: wheat;
   width: 50%;
@@ -24,6 +27,7 @@
   display: inline;
 }
 .gallery__title {
+  display: flex;
   color: #746900;
   line-height: 120%;
   font-size: 160%;
@@ -47,6 +51,7 @@
   border-radius: 30px;
   margin: 3% auto;
   width: 400px;
+  text-align: center;
 }
 @media screen and (min-width: 220px) {
   .gallery-container {
