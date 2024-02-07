@@ -15,6 +15,7 @@
 }
 .hero__nav {
   text-decoration: none;
+  list-style: none;
 }
 .gallery-container {
   background-color: wheat;
